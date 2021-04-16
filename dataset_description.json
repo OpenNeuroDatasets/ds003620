@@ -1,0 +1,26 @@
+{
+    "Name": "Runabout: A mobile EEG study of auditory oddball processing in lab and real-world conditions",
+    "BIDSVersion": "1.4.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+       "Magnus Liebherr",
+       "Andrew W. Corcoran",
+       "Phillip M. Alday",
+	   "Scott Coussens",
+	   "Valeria Bellan",
+	   "Caitlin A. Howlett",
+	   "Maarten A. Immink",
+	   "Mark Kohler",
+	   "Matthias Schlesewsky",
+	   "Ina Bornkessel-Schlesewsky"
+    ],
+    "Acknowledgements": " ",
+    "HowToAcknowledge": " ",
+    "Funding": [
+	   "FT160100437"
+    ],
+    "ReferencesAndLinks": [
+    ],
+    "DatasetDOI": " "
+}

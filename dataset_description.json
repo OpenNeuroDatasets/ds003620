@@ -1,5 +1,5 @@
 {
-    "Name": "Runabout: A mobile EEG study of auditory oddball processing in lab and real-world conditions",
+    "Name": "Runabout: A mobile EEG study of auditory oddball processing in laboratory and real-world conditions",
     "BIDSVersion": "1.4.0",
     "DatasetType": "raw",
     "License": "CC0",

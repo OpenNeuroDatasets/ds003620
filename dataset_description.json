@@ -4,23 +4,25 @@
     "DatasetType": "raw",
     "License": "CC0",
     "Authors": [
-       "Magnus Liebherr",
-       "Andrew W. Corcoran",
-       "Phillip M. Alday",
-	   "Scott Coussens",
-	   "Valeria Bellan",
-	   "Caitlin A. Howlett",
-	   "Maarten A. Immink",
-	   "Mark Kohler",
-	   "Matthias Schlesewsky",
-	   "Ina Bornkessel-Schlesewsky"
+        "Magnus Liebherr",
+        "Andrew W. Corcoran",
+        "Phillip M. Alday",
+        "Scott Coussens",
+        "Valeria Bellan",
+        "Caitlin A. Howlett",
+        "Maarten A. Immink",
+        "Mark Kohler",
+        "Matthias Schlesewsky",
+        "Ina Bornkessel-Schlesewsky"
     ],
     "Acknowledgements": " ",
     "HowToAcknowledge": " ",
     "Funding": [
-	   "FT160100437"
+        "FT160100437"
     ],
-    "ReferencesAndLinks": [
-    ],
-    "DatasetDOI": " "
+    "ReferencesAndLinks": [],
+    "DatasetDOI": " ",
+    "EthicsApprovals": [
+        "ID: 0000034991"
+    ]
 }

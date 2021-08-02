@@ -1,8 +1,7 @@
-{
+﻿{
     "Name": "Runabout: A mobile EEG study of auditory oddball processing in laboratory and real-world conditions",
-    "BIDSVersion": "1.4.0",
-    "DatasetType": "raw",
-    "License": "CC0",
+    "BIDSVersion": "1.4",
+    "License": "ODbL (https://opendatacommons.org/licenses/odbl/summary/)",
     "Authors": [
         "Magnus Liebherr",
         "Andrew W. Corcoran",
@@ -15,13 +14,15 @@
         "Matthias Schlesewsky",
         "Ina Bornkessel-Schlesewsky"
     ],
-    "Acknowledgements": " ",
-    "HowToAcknowledge": " ",
+    "Acknowledgements": "AWC is supported by an Australian Government Research Training Program (RTP) scholarship. IBS acknowledges the support of an Australian Research Council Future Fellowship (FT160100437). CAH is supported by an Australian Government Research Training Program (RTP) scholarship. This research was funded by the University of South Australia under the Research Themes Investment Scheme. We would also like to thank the undergraduate students in course BEHL 3021 (“Cognitive Neuroscience”) at the University of South Australia who participated in this study and helped with data collection as part of their class project.",
+    "HowToAcknowledge": "In addition to citing this OpenNeuro dataset, please cite the accompanying manuscript (linked below).",
     "Funding": [
         "FT160100437"
     ],
-    "ReferencesAndLinks": [],
-    "DatasetDOI": "10.18112/openneuro.ds003620.v1.0.1",
+    "ReferencesAndLinks": [
+    	"https://www.biorxiv.org/content/10.1101/2021.05.27.445993v1"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds003620.v1.0.2",
     "EthicsApprovals": [
         "0000034991"
     ]

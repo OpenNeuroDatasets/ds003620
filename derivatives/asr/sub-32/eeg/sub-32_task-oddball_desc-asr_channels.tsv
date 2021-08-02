@@ -10,14 +10,15 @@ C3	EEG	µV	250	common
 T7	EEG	µV	250	common
 CP5	EEG	µV	250	common
 CP1	EEG	µV	250	common
-Pz	EEG	µV	250	common
 P3	EEG	µV	250	common
 P7	EEG	µV	250	common
 O1	EEG	µV	250	common
 Oz	EEG	µV	250	common
 O2	EEG	µV	250	common
 P8	EEG	µV	250	common
+CP6	EEG	µV	250	common
 Cz	EEG	µV	250	common
+C4	EEG	µV	250	common
 T8	EEG	µV	250	common
 FT10	EEG	µV	250	common
 FC6	EEG	µV	250	common

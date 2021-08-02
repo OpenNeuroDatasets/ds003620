@@ -25,6 +25,7 @@ C4	EEG	µV	250	common
 T8	EEG	µV	250	common
 FT10	EEG	µV	250	common
 FC6	EEG	µV	250	common
+F4	EEG	µV	250	common
 F8	EEG	µV	250	common
 Fp2	EEG	µV	250	common
 FCz	EEG	µV	250	common

@@ -26,7 +26,7 @@ T8	EEG	µV	250	common	good	n/a
 FT10	EEG	µV	250	common	good	n/a
 FC6	EEG	µV	250	common	good	n/a
 FC2	EEG	µV	250	common	bad	interpolated
-F4	EEG	µV	250	common	bad	interpolated
+F4	EEG	µV	250	common	good	n/a
 F8	EEG	µV	250	common	good	n/a
 Fp2	EEG	µV	250	common	good	n/a
 FCz	EEG	µV	250	common	good	n/a

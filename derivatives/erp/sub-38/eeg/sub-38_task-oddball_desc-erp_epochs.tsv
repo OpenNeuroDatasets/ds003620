@@ -43,6 +43,7 @@ latency	trial_type	duration	zero_time
 24.624	t_Dontcount_campus	1	0.2
 25.178	ntDontcount_campus	1	0.2
 25.734	ntDontcount_campus	1	0.2
+26.31	ntDontcount_campus	1	0.2
 26.864	ntDontcount_campus	1	0.2
 27.418	ntDontcount_campus	1	0.2
 27.974	ntDontcount_campus	1	0.2
@@ -315,6 +316,7 @@ latency	trial_type	duration	zero_time
 178.182	t_Dontcount_campus	1	0.2
 178.736	ntDontcount_campus	1	0.2
 179.292	t_Dontcount_campus	1	0.2
+179.846	ntDontcount_campus	1	0.2
 180.4	ntDontcount_campus	1	0.2
 180.954	ntDontcount_campus	1	0.2
 181.51	t_Dontcount_campus	1	0.2
@@ -338,6 +340,7 @@ latency	trial_type	duration	zero_time
 191.536	ntDontcount_campus	1	0.2
 192.09	ntDontcount_campus	1	0.2
 192.646	t_Dontcount_campus	1	0.2
+193.2	ntDontcount_campus	1	0.2
 193.754	ntDontcount_campus	1	0.2
 194.31	ntDontcount_campus	1	0.2
 194.864	ntDontcount_campus	1	0.2
@@ -353,9 +356,12 @@ latency	trial_type	duration	zero_time
 200.412	t_Dontcount_campus	1	0.2
 200.966	ntDontcount_campus	1	0.2
 201.52	ntDontcount_campus	1	0.2
+202.096	ntDontcount_campus	1	0.2
+202.672	ntDontcount_campus	1	0.2
 203.226	ntDontcount_campus	1	0.2
 203.826	t_Dontcount_campus	1	0.2
 204.4	ntDontcount_campus	1	0.2
+204.954	ntDontcount_campus	1	0.2
 205.51	t_Dontcount_campus	1	0.2
 206.064	ntDontcount_campus	1	0.2
 206.618	ntDontcount_campus	1	0.2
@@ -372,6 +378,7 @@ latency	trial_type	duration	zero_time
 212.742	ntDontcount_campus	1	0.2
 213.298	t_Dontcount_campus	1	0.2
 213.85	ntDontcount_campus	1	0.2
+214.406	ntDontcount_campus	1	0.2
 214.96	ntDontcount_campus	1	0.2
 215.514	ntDontcount_campus	1	0.2
 216.07	ntDontcount_campus	1	0.2
@@ -404,6 +411,7 @@ latency	trial_type	duration	zero_time
 231.174	ntDontcount_campus	1	0.2
 231.75	ntDontcount_campus	1	0.2
 232.304	ntDontcount_campus	1	0.2
+232.86	t_Dontcount_campus	1	0.2
 233.414	ntDontcount_campus	1	0.2
 233.968	ntDontcount_campus	1	0.2
 234.522	ntDontcount_campus	1	0.2
@@ -498,7 +506,9 @@ latency	trial_type	duration	zero_time
 284.464	ntDontcount_campus	1	0.2
 285.04	ntDontcount_campus	1	0.2
 285.616	ntDontcount_campus	1	0.2
+286.17	ntDontcount_campus	1	0.2
 286.726	t_Dontcount_campus	1	0.2
+287.28	ntDontcount_campus	1	0.2
 287.834	ntDontcount_campus	1	0.2
 288.41	ntDontcount_campus	1	0.2
 288.966	t_Dontcount_campus	1	0.2
@@ -764,6 +774,8 @@ latency	trial_type	duration	zero_time
 437.836	ntDontcount_lab	1	0.2
 438.414	t_Dontcount_lab	1	0.2
 438.968	t_Dontcount_lab	1	0.2
+439.522	ntDontcount_lab	1	0.2
+440.076	ntDontcount_lab	1	0.2
 440.632	ntDontcount_lab	1	0.2
 441.206	ntDontcount_lab	1	0.2
 441.762	t_Dontcount_lab	1	0.2
@@ -799,6 +811,8 @@ latency	trial_type	duration	zero_time
 458.594	t_Dontcount_lab	1	0.2
 459.17	ntDontcount_lab	1	0.2
 459.724	ntDontcount_lab	1	0.2
+460.28	ntDontcount_lab	1	0.2
+460.834	ntDontcount_lab	1	0.2
 461.41	ntDontcount_lab	1	0.2
 461.964	ntDontcount_lab	1	0.2
 462.52	ntDontcount_lab	1	0.2
@@ -874,6 +888,7 @@ latency	trial_type	duration	zero_time
 501.772	ntDontcount_lab	1	0.2
 502.328	t_Dontcount_lab	1	0.2
 502.882	ntDontcount_lab	1	0.2
+503.436	ntDontcount_lab	1	0.2
 503.992	t_Dontcount_lab	1	0.2
 504.546	ntDontcount_lab	1	0.2
 505.1	ntDontcount_lab	1	0.2
@@ -1121,6 +1136,8 @@ latency	trial_type	duration	zero_time
 641.762	ntDontcount_lab	1	0.2
 642.316	ntDontcount_lab	1	0.2
 642.872	ntDontcount_lab	1	0.2
+644.002	ntDontcount_lab	1	0.2
+644.556	ntDontcount_lab	1	0.2
 645.112	ntDontcount_lab	1	0.2
 645.666	t_Dontcount_lab	1	0.2
 646.22	ntDontcount_lab	1	0.2
@@ -1146,6 +1163,7 @@ latency	trial_type	duration	zero_time
 657.4	ntDontcount_lab	1	0.2
 657.954	ntDontcount_lab	1	0.2
 658.53	t_Dontcount_lab	1	0.2
+659.084	ntDontcount_lab	1	0.2
 659.64	ntDontcount_lab	1	0.2
 660.194	ntDontcount_lab	1	0.2
 660.748	ntDontcount_lab	1	0.2
@@ -1192,6 +1210,7 @@ latency	trial_type	duration	zero_time
 683.66	ntDontcount_lab	1	0.2
 684.236	ntDontcount_lab	1	0.2
 684.812	ntDontcount_lab	1	0.2
+685.368	ntDontcount_lab	1	0.2
 685.922	ntDontcount_lab	1	0.2
 686.476	ntDontcount_lab	1	0.2
 687.032	ntDontcount_lab	1	0.2
@@ -1199,6 +1218,7 @@ latency	trial_type	duration	zero_time
 688.162	ntDontcount_lab	1	0.2
 688.738	ntDontcount_lab	1	0.2
 689.294	t_Dontcount_lab	1	0.2
+689.848	ntDontcount_lab	1	0.2
 690.402	ntDontcount_lab	1	0.2
 690.958	t_Dontcount_lab	1	0.2
 691.532	ntDontcount_lab	1	0.2
@@ -1250,6 +1270,7 @@ latency	trial_type	duration	zero_time
 717.41	ntDontcount_lab	1	0.2
 717.964	ntDontcount_lab	1	0.2
 718.52	ntDontcount_lab	1	0.2
+719.096	ntDontcount_lab	1	0.2
 719.672	ntDontcount_lab	1	0.2
 720.226	ntDontcount_lab	1	0.2
 720.802	ntDontcount_lab	1	0.2
@@ -1325,6 +1346,7 @@ latency	trial_type	duration	zero_time
 760.162	ntDontcount_lab	1	0.2
 760.716	ntDontcount_lab	1	0.2
 761.292	ntDontcount_lab	1	0.2
+761.848	ntDontcount_lab	1	0.2
 762.402	ntDontcount_lab	1	0.2
 762.958	t_Dontcount_lab	1	0.2
 763.532	ntDontcount_lab	1	0.2
@@ -1358,6 +1380,7 @@ latency	trial_type	duration	zero_time
 779.192	ntDontcount_lab	1	0.2
 779.746	ntDontcount_lab	1	0.2
 780.322	t_Dontcount_lab	1	0.2
+780.876	ntDontcount_lab	1	0.2
 781.432	ntDontcount_lab	1	0.2
 782.008	ntDontcount_lab	1	0.2
 782.584	t_Dontcount_lab	1	0.2
@@ -1549,6 +1572,8 @@ latency	trial_type	duration	zero_time
 890.154	t_Dontcount_oval	1	0.2
 890.708	ntDontcount_oval	1	0.2
 891.262	ntDontcount_oval	1	0.2
+891.816	ntDontcount_oval	1	0.2
+892.372	ntDontcount_oval	1	0.2
 892.948	ntDontcount_oval	1	0.2
 893.524	t_Dontcount_oval	1	0.2
 894.078	ntDontcount_oval	1	0.2
@@ -1585,6 +1610,7 @@ latency	trial_type	duration	zero_time
 911.444	ntDontcount_oval	1	0.2
 911.998	ntDontcount_oval	1	0.2
 912.552	ntDontcount_oval	1	0.2
+913.108	ntDontcount_oval	1	0.2
 913.684	ntDontcount_oval	1	0.2
 914.238	ntDontcount_oval	1	0.2
 914.814	ntDontcount_oval	1	0.2
@@ -1595,6 +1621,7 @@ latency	trial_type	duration	zero_time
 917.61	t_Dontcount_oval	1	0.2
 918.164	ntDontcount_oval	1	0.2
 918.74	ntDontcount_oval	1	0.2
+919.848	ntDontcount_oval	1	0.2
 920.404	ntDontcount_oval	1	0.2
 920.958	ntDontcount_oval	1	0.2
 921.512	ntDontcount_oval	1	0.2
@@ -1627,6 +1654,8 @@ latency	trial_type	duration	zero_time
 936.616	ntDontcount_oval	1	0.2
 937.172	ntDontcount_oval	1	0.2
 937.726	ntDontcount_oval	1	0.2
+938.28	ntDontcount_oval	1	0.2
+938.856	ntDontcount_oval	1	0.2
 939.412	ntDontcount_oval	1	0.2
 939.988	ntDontcount_oval	1	0.2
 940.544	t_Dontcount_oval	1	0.2
@@ -1698,6 +1727,8 @@ latency	trial_type	duration	zero_time
 977.684	ntDontcount_oval	1	0.2
 978.238	ntDontcount_oval	1	0.2
 978.792	ntDontcount_oval	1	0.2
+979.368	ntDontcount_oval	1	0.2
+979.924	ntDontcount_oval	1	0.2
 980.48	t_Dontcount_oval	1	0.2
 981.8	ntDontcount_oval	1	0.2
 982.356	ntDontcount_oval	1	0.2
@@ -1741,6 +1772,7 @@ latency	trial_type	duration	zero_time
 1003.752	ntDontcount_oval	1	0.2
 1004.308	ntDontcount_oval	1	0.2
 1004.862	ntDontcount_oval	1	0.2
+1005.416	ntDontcount_oval	1	0.2
 1005.972	ntDontcount_oval	1	0.2
 1006.526	ntDontcount_oval	1	0.2
 1007.08	ntDontcount_oval	1	0.2
@@ -1768,6 +1800,7 @@ latency	trial_type	duration	zero_time
 1019.882	t_Dontcount_oval	1	0.2
 1020.458	t_Dontcount_oval	1	0.2
 1021.012	ntDontcount_oval	1	0.2
+1021.568	t_Dontcount_oval	1	0.2
 1022.12	ntDontcount_oval	1	0.2
 1022.696	ntDontcount_oval	1	0.2
 1023.252	ntDontcount_oval	1	0.2
@@ -1785,6 +1818,7 @@ latency	trial_type	duration	zero_time
 1029.952	t_Dontcount_oval	1	0.2
 1030.504	ntDontcount_oval	1	0.2
 1031.06	ntDontcount_oval	1	0.2
+1031.614	ntDontcount_oval	1	0.2
 1032.17	t_Dontcount_oval	1	0.2
 1032.724	ntDontcount_oval	1	0.2
 1033.278	ntDontcount_oval	1	0.2
@@ -2008,6 +2042,8 @@ latency	trial_type	duration	zero_time
 1155.584	t_Dontcount_oval	1	0.2
 1156.136	ntDontcount_oval	1	0.2
 1156.692	ntDontcount_oval	1	0.2
+1157.268	ntDontcount_oval	1	0.2
+1157.822	ntDontcount_oval	1	0.2
 1158.4	t_Dontcount_oval	1	0.2
 1158.954	t_Dontcount_oval	1	0.2
 1159.508	ntDontcount_oval	1	0.2
@@ -2191,6 +2227,8 @@ latency	trial_type	duration	zero_time
 1260.032	t_Dontcount_oval	1	0.2
 1260.584	ntDontcount_oval	1	0.2
 1261.14	t_Dontcount_oval	1	0.2
+1261.696	t_Dontcount_oval	1	0.2
+1262.25	t_Dontcount_oval	1	0.2
 1262.824	ntDontcount_oval	1	0.2
 1263.38	ntDontcount_oval	1	0.2
 1263.956	t_Dontcount_oval	1	0.2
@@ -2210,6 +2248,7 @@ latency	trial_type	duration	zero_time
 1275.182	ntcount_oval	1	0.2
 1275.736	ntcount_oval	1	0.2
 1276.312	ntcount_oval	1	0.2
+1276.868	ntcount_oval	1	0.2
 1277.422	ntcount_oval	1	0.2
 1277.978	t_count_oval	1	0.2
 1278.532	t_count_oval	1	0.2
@@ -2250,6 +2289,7 @@ latency	trial_type	duration	zero_time
 1298.712	ntcount_oval	1	0.2
 1299.268	ntcount_oval	1	0.2
 1299.844	ntcount_oval	1	0.2
+1300.42	ntcount_oval	1	0.2
 1300.974	ntcount_oval	1	0.2
 1301.528	ntcount_oval	1	0.2
 1302.084	t_count_oval	1	0.2
@@ -2294,7 +2334,6 @@ latency	trial_type	duration	zero_time
 1324.036	ntcount_oval	1	0.2
 1324.612	ntcount_oval	1	0.2
 1325.168	t_count_oval	1	0.2
-1325.722	t_count_oval	1	0.2
 1326.276	ntcount_oval	1	0.2
 1326.83	ntcount_oval	1	0.2
 1327.406	ntcount_oval	1	0.2
@@ -2396,6 +2435,7 @@ latency	trial_type	duration	zero_time
 1388.292	ntcount_oval	1	0.2
 1388.846	ntcount_oval	1	0.2
 1389.424	t_count_oval	1	0.2
+1389.976	ntcount_oval	1	0.2
 1390.532	t_count_oval	1	0.2
 1391.086	ntcount_oval	1	0.2
 1391.64	ntcount_oval	1	0.2
@@ -2479,6 +2519,7 @@ latency	trial_type	duration	zero_time
 1436.292	t_count_oval	1	0.2
 1436.848	t_count_oval	1	0.2
 1437.422	ntcount_oval	1	0.2
+1437.976	ntcount_oval	1	0.2
 1438.554	t_count_oval	1	0.2
 1439.108	ntcount_oval	1	0.2
 1439.662	ntcount_oval	1	0.2
@@ -2512,6 +2553,8 @@ latency	trial_type	duration	zero_time
 1459.424	ntcount_oval	1	0.2
 1459.978	ntcount_oval	1	0.2
 1460.556	t_count_oval	1	0.2
+1461.13	ntcount_oval	1	0.2
+1461.686	t_count_oval	1	0.2
 1462.284	t_count_oval	1	0.2
 1462.836	ntcount_oval	1	0.2
 1463.392	t_count_oval	1	0.2
@@ -2525,6 +2568,8 @@ latency	trial_type	duration	zero_time
 1467.894	t_count_oval	1	0.2
 1468.448	ntcount_oval	1	0.2
 1469.024	t_count_oval	1	0.2
+1469.6	ntcount_oval	1	0.2
+1470.154	ntcount_oval	1	0.2
 1470.708	ntcount_oval	1	0.2
 1471.284	ntcount_oval	1	0.2
 1471.84	ntcount_oval	1	0.2
@@ -2585,6 +2630,7 @@ latency	trial_type	duration	zero_time
 1502.752	ntcount_oval	1	0.2
 1503.306	ntcount_oval	1	0.2
 1503.86	ntcount_oval	1	0.2
+1504.416	ntcount_oval	1	0.2
 1504.992	ntcount_oval	1	0.2
 1505.568	ntcount_oval	1	0.2
 1506.144	ntcount_oval	1	0.2
@@ -2599,6 +2645,10 @@ latency	trial_type	duration	zero_time
 1511.2	t_count_oval	1	0.2
 1511.756	t_count_oval	1	0.2
 1512.31	t_count_oval	1	0.2
+1512.864	ntcount_oval	1	0.2
+1513.44	ntcount_oval	1	0.2
+1514.016	ntcount_oval	1	0.2
+1514.57	ntcount_oval	1	0.2
 1515.126	t_count_oval	1	0.2
 1515.68	ntcount_oval	1	0.2
 1516.234	ntcount_oval	1	0.2
@@ -2680,6 +2730,8 @@ latency	trial_type	duration	zero_time
 1566.39	ntcount_oval	1	0.2
 1566.944	ntcount_oval	1	0.2
 1567.52	ntcount_oval	1	0.2
+1568.074	ntcount_oval	1	0.2
+1568.65	ntcount_oval	1	0.2
 1569.204	ntcount_oval	1	0.2
 1569.782	ntcount_oval	1	0.2
 1570.336	ntcount_oval	1	0.2
@@ -3102,8 +3154,6 @@ latency	trial_type	duration	zero_time
 1819.686	ntcount_campus	1	0.2
 1820.242	ntcount_campus	1	0.2
 1820.818	ntcount_campus	1	0.2
-1821.372	ntcount_campus	1	0.2
-1821.926	ntcount_campus	1	0.2
 1822.482	ntcount_campus	1	0.2
 1823.038	t_count_campus	1	0.2
 1823.612	ntcount_campus	1	0.2
@@ -3355,6 +3405,8 @@ latency	trial_type	duration	zero_time
 1967.014	ntcount_campus	1	0.2
 1967.57	t_count_campus	1	0.2
 1968.124	ntcount_campus	1	0.2
+1968.678	ntcount_campus	1	0.2
+1969.234	ntcount_campus	1	0.2
 1969.81	ntcount_campus	1	0.2
 1970.364	ntcount_campus	1	0.2
 1970.94	ntcount_campus	1	0.2
@@ -3485,7 +3537,6 @@ latency	trial_type	duration	zero_time
 2044.796	ntcount_campus	1	0.2
 2045.35	ntcount_campus	1	0.2
 2045.928	t_count_campus	1	0.2
-2046.482	ntcount_campus	1	0.2
 2047.058	t_count_campus	1	0.2
 2047.612	ntcount_campus	1	0.2
 2048.188	ntcount_campus	1	0.2
@@ -3493,6 +3544,7 @@ latency	trial_type	duration	zero_time
 2049.298	ntcount_campus	1	0.2
 2049.852	ntcount_campus	1	0.2
 2050.428	ntcount_campus	1	0.2
+2051.004	ntcount_campus	1	0.2
 2051.582	t_count_campus	1	0.2
 2052.134	ntcount_campus	1	0.2
 2052.69	ntcount_campus	1	0.2
@@ -3510,7 +3562,6 @@ latency	trial_type	duration	zero_time
 2059.41	ntcount_campus	1	0.2
 2059.986	t_count_campus	1	0.2
 2060.54	ntcount_campus	1	0.2
-2061.096	t_count_campus	1	0.2
 2061.672	t_count_campus	1	0.2
 2062.226	ntcount_campus	1	0.2
 2062.78	ntcount_campus	1	0.2
@@ -3930,6 +3981,8 @@ latency	trial_type	duration	zero_time
 2307.972	ntcount_lab	1	0.2
 2308.528	ntcount_lab	1	0.2
 2309.104	ntcount_lab	1	0.2
+2309.658	ntcount_lab	1	0.2
+2310.234	ntcount_lab	1	0.2
 2310.81	ntcount_lab	1	0.2
 2311.364	ntcount_lab	1	0.2
 2311.92	ntcount_lab	1	0.2
@@ -3991,11 +4044,14 @@ latency	trial_type	duration	zero_time
 2347.312	ntcount_lab	1	0.2
 2347.866	ntcount_lab	1	0.2
 2348.42	ntcount_lab	1	0.2
+2348.976	ntcount_lab	1	0.2
+2349.53	t_count_lab	1	0.2
 2350.106	ntcount_lab	1	0.2
 2350.66	ntcount_lab	1	0.2
 2351.236	ntcount_lab	1	0.2
 2351.792	ntcount_lab	1	0.2
 2352.346	t_count_lab	1	0.2
+2352.9	ntcount_lab	1	0.2
 2353.456	ntcount_lab	1	0.2
 2354.01	ntcount_lab	1	0.2
 2354.586	ntcount_lab	1	0.2
@@ -4107,6 +4163,7 @@ latency	trial_type	duration	zero_time
 2414.022	t_count_lab	1	0.2
 2414.576	ntcount_lab	1	0.2
 2415.13	t_count_lab	1	0.2
+2415.706	ntcount_lab	1	0.2
 2416.282	ntcount_lab	1	0.2
 2416.836	ntcount_lab	1	0.2
 2417.392	ntcount_lab	1	0.2
@@ -4277,6 +4334,7 @@ latency	trial_type	duration	zero_time
 2514.82	ntcount_lab	1	0.2
 2515.376	ntcount_lab	1	0.2
 2515.93	ntcount_lab	1	0.2
+2516.506	ntcount_lab	1	0.2
 2520.858	ntcount_lab	1	0.2
 2521.434	ntcount_lab	1	0.2
 2522.012	t_count_lab	1	0.2
@@ -4294,6 +4352,8 @@ latency	trial_type	duration	zero_time
 2528.73	ntcount_lab	1	0.2
 2529.284	ntcount_lab	1	0.2
 2529.86	ntcount_lab	1	0.2
+2530.416	ntcount_lab	1	0.2
+2530.97	ntcount_lab	1	0.2
 2531.546	ntcount_lab	1	0.2
 2532.1	ntcount_lab	1	0.2
 2532.656	ntcount_lab	1	0.2

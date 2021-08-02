@@ -2,7 +2,7 @@ name	type	units	sampling_reference	reference	status	status_description
 Fp1	EEG	µV	250	common	good	n/a
 Fz	EEG	µV	250	common	good	n/a
 F3	EEG	µV	250	common	good	n/a
-F7	EEG	µV	250	common	bad	interpolated
+F7	EEG	µV	250	common	good	n/a
 FT9	EEG	µV	250	common	good	n/a
 FC5	EEG	µV	250	common	good	n/a
 FC1	EEG	µV	250	common	good	n/a

@@ -3,7 +3,7 @@ Fp1	EEG	µV	250	common	good	n/a
 Fz	EEG	µV	250	common	good	n/a
 F3	EEG	µV	250	common	good	n/a
 F7	EEG	µV	250	common	good	n/a
-FT9	EEG	µV	250	common	good	n/a
+FT9	EEG	µV	250	common	bad	interpolated
 FC5	EEG	µV	250	common	good	n/a
 FC1	EEG	µV	250	common	good	n/a
 C3	EEG	µV	250	common	good	n/a

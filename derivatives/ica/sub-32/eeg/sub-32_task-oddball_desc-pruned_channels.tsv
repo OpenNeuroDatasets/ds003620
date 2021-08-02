@@ -10,7 +10,7 @@ C3	EEG	µV	250	common	good	n/a
 T7	EEG	µV	250	common	good	n/a
 CP5	EEG	µV	250	common	good	n/a
 CP1	EEG	µV	250	common	good	n/a
-Pz	EEG	µV	250	common	good	n/a
+Pz	EEG	µV	250	common	bad	interpolated
 P3	EEG	µV	250	common	good	n/a
 P7	EEG	µV	250	common	good	n/a
 O1	EEG	µV	250	common	good	n/a
@@ -18,10 +18,10 @@ Oz	EEG	µV	250	common	good	n/a
 O2	EEG	µV	250	common	good	n/a
 P4	EEG	µV	250	common	bad	interpolated
 P8	EEG	µV	250	common	good	n/a
-CP6	EEG	µV	250	common	bad	interpolated
+CP6	EEG	µV	250	common	good	n/a
 CP2	EEG	µV	250	common	bad	interpolated
 Cz	EEG	µV	250	common	good	n/a
-C4	EEG	µV	250	common	bad	interpolated
+C4	EEG	µV	250	common	good	n/a
 T8	EEG	µV	250	common	good	n/a
 FT10	EEG	µV	250	common	good	n/a
 FC6	EEG	µV	250	common	good	n/a

@@ -12,14 +12,20 @@
       "HighCutoff": 0.25,
       "HighCutoffDefinition": "-6dB",
       "TransitionBandwidth": 0.5
+    },
+    "LowPass": {
+      "FilterType": "FIR",
+      "LowCutoff": 45,
+      "LowCutoffDefinition": "-6dB",
+      "TransitionBandwidth": 10
     }
   },
   "SubjectArtefactDescription": [
     {
-      "RejectedChannels": "F4"
+      "RejectedChannels": "FT9"
     },
     {
-      "RejectedChannels": "P8"
+      "RejectedChannels": "Fz"
     }
   ]
 }

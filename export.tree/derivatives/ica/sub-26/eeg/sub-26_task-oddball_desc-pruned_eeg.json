@@ -1,0 +1,20 @@
+{
+  "Source": "sub-26\\eeg\\sub-26_task-oddball_eeg.eeg",
+  "SamplingFrequency": 250,
+  "IsDownsampled": true,
+  "EEGChannelCount": 31,
+  "MiscChannelCount": 0,
+  "EEGReference": "TP9 TP10 ",
+  "RecordingDuration": 2610.192,
+  "SoftwareFilters": {
+    "HighPass": {
+      "FilterType": "FIR",
+      "HighCutoff": 0.25,
+      "HighCutoffDefinition": "-6dB",
+      "TransitionBandwidth": 0.5
+    }
+  },
+  "SubjectArtefactDescription": {
+    "RejectedComponents": [4,6]
+  }
+}

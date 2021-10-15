@@ -1,5 +1,5 @@
-Overview
---------
+## Overview
+
 This dataset contains raw and pre-processed EEG data from a mobile EEG study investigating the effects of cognitive task demands, motor demands, and environmental complexity on attentional processing (see below for experiment details).
 
 All preprocessing and analysis code is deposited in the `code` directory. The entire MATLAB pipeline can be reproduced by executing the `run_pipeline.m` script. In order to run these scripts, you will need to ensure you have the required MATLAB toolboxes and R packages on your system. You will also need to adapt `def_local.m` to specify local paths to MATLAB and EEGLAB. Descriptive statistics and mixed-effects models can be reproduced in R by running the `stat_analysis.R` script.

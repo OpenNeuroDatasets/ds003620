@@ -1,7 +1,7 @@
 {
     "Name": "Runabout: A mobile EEG study of auditory oddball processing in laboratory and real-world conditions",
     "BIDSVersion": "1.4",
-    "License": "CC0",
+    "License": "ODbL (https://opendatacommons.org/licenses/odbl/summary/)",
     "Authors": [
         "Magnus Liebherr",
         "Andrew W. Corcoran",
@@ -20,9 +20,9 @@
         "FT160100437"
     ],
     "ReferencesAndLinks": [
-        "https://www.biorxiv.org/content/10.1101/2021.05.27.445993v1"
+        "https://www.biorxiv.org/content/10.1101/2021.05.27.445993v2"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds003620.v1.0.2",
+    "DatasetDOI": "10.18112/openneuro.ds003620.v1.1.0",
     "EthicsApprovals": [
         "0000034991"
     ]

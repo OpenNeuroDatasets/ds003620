@@ -1,3 +1,5 @@
+1.1.1 2021-11-17
+  - - update publication reference
 1.1.0 2021-10-15
   - add gait parameter analysis (MATLAB preprocessing script and additional R statistical analysis)
   - cleaner readme file

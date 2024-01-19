@@ -1,0 +1,9 @@
+{
+  "Source": "sub-14\\eeg\\sub-14_task-oddball_eeg.eeg",
+  "SamplingFrequency": 250,
+  "IsDownsampled": true,
+  "EEGChannelCount": 31,
+  "MiscChannelCount": 0,
+  "EEGReference": "TP9 TP10 ",
+  "RecordingDuration": 2602.204
+}

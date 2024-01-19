@@ -1,0 +1,5 @@
+{
+  "Source": "sub-27\\eeg\\sub-27_task-oddball_eeg.eeg",
+  "BaselineCorrection": false,
+  "BaselinePeriod": [-200,0]
+}

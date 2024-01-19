@@ -1,0 +1,34 @@
+{
+  "Source": "sub-09\\eeg\\sub-09_task-oddball_eeg.eeg",
+  "SamplingFrequency": 250,
+  "IsDownsampled": true,
+  "EEGChannelCount": 28,
+  "MiscChannelCount": 0,
+  "EEGReference": "TP9 TP10 ",
+  "RecordingDuration": 2604.744,
+  "SoftwareFilters": {
+    "HighPass": {
+      "FilterType": "FIR",
+      "HighCutoff": 0.25,
+      "HighCutoffDefinition": "-6dB",
+      "TransitionBandwidth": 0.5
+    },
+    "LowPass": {
+      "FilterType": "FIR",
+      "LowCutoff": 45,
+      "LowCutoffDefinition": "-6dB",
+      "TransitionBandwidth": 10
+    }
+  },
+  "SubjectArtefactDescription": [
+    {
+      "RejectedChannels": "F7"
+    },
+    {
+      "RejectedChannels": "FCz"
+    },
+    {
+      "RejectedChannels": "Oz"
+    }
+  ]
+}

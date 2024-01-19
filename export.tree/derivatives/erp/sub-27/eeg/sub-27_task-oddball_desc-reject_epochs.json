@@ -1,0 +1,19 @@
+{
+  "Bin": {
+    "Description": "Event bins as defined in bin descriptor file",
+    "Levels": {
+      "B1": "ntDontcount_lab",
+      "B2": "ntDontcount_oval",
+      "B3": "ntDontcount_campus",
+      "B4": "t_Dontcount_lab",
+      "B5": "t_Dontcount_oval",
+      "B6": "t_Dontcount_campus",
+      "B7": "ntcount_lab",
+      "B8": "ntcount_oval",
+      "B9": "ntcount_campus",
+      "B10": "t_count_lab",
+      "B11": "t_count_oval",
+      "B12": "t_count_campus"
+    }
+  }
+}

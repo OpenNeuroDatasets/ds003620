@@ -1,0 +1,76 @@
+{
+  "subj_id": {
+    "LongName": "Subject ID number",
+    "Description": "ID number corresponding to sub-<label> in BIDS"
+  },
+  "chan_num": {
+    "LongName": "Channel number",
+    "Description": "Ordinal position of channel in EEG.chanlocs"
+  },
+  "code": {
+    "LongName": "Trigger code",
+    "Description": "Trigger marker coding stimulus onset and condition",
+    "Levels": {
+      "ntDontcount_lab": 111,
+      "ntDontcount_oval": 112,
+      "ntDontcount_campus": 113,
+      "ntcount_lab": 121,
+      "ntcount_oval": 122,
+      "ntcount_campus": 123,
+      "t_Dontcount_lab": 211,
+      "t_Dontcount_oval": 212,
+      "t_Dontcount_campus": 213,
+      "t_count_lab": 221,
+      "t_count_oval": 222,
+      "t_count_campus": 223
+    }
+  },
+  "epoch": {
+    "LongName": "Epoch number",
+    "Description": "Ordinal position of epoch within EEG recording"
+  },
+  "prestim": {
+    "LongName": "Prestimulus window",
+    "Description": "Mean voltage during prestimulus timewindow",
+    "Units": "microV"
+  },
+  "mmn": {
+    "LongName": "Mismatch negativity window",
+    "Description": "Mean voltage during mismatch negativity timewindow",
+    "Units": "microV"
+  },
+  "p3": {
+    "LongName": "P3 window",
+    "Description": "Mean voltage during P3 timewindow",
+    "Units": "microV"
+  },
+  "stimulus": {
+    "LongName": "Stimulus code",
+    "Description": "Code denoting stimulus condition",
+    "Levels": {
+      "Standard": 0,
+      "Deviant": 1
+    }
+  },
+  "task": {
+    "LongName": "Task code",
+    "Description": "Code denoting task condition",
+    "Levels": {
+      "Ignore": 0,
+      "Count": 1
+    }
+  },
+  "environ": {
+    "LongName": "Environment code",
+    "Description": "Code denoting environmental condition",
+    "Levels": {
+      "Lab": 1,
+      "Oval": 2,
+      "Campus": 3
+    }
+  },
+  "chan_lab": {
+    "LongName": "Channel label",
+    "Description": "Channel labels derived from EEG montage"
+  }
+}
